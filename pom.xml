@@ -9,6 +9,8 @@
 		<selenium.version>4.1.0</selenium.version>
 		<testng.version>7.4.0</testng.version>
 		<webdrivermanager.version>5.0.3</webdrivermanager.version>
+		<maven.compiler.source>1.8</maven.compiler.source>
+		<maven.compiler.target>1.8</maven.compiler.target>
 	</properties>
 
 	<dependencies>
@@ -42,10 +44,6 @@
 				<artifactId>maven-surefire-plugin</artifactId>
 				<version>3.0.0-M5</version>
 				<configuration>
-					<configuration>
-						<source>1.6</source>
-						<target>1.6</target>
-					</configuration>
 					<suiteXmlFiles>
 						<suiteXmlFile>testng.xml</suiteXmlFile>
 					</suiteXmlFiles>
