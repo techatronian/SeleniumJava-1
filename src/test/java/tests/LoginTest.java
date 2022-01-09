@@ -23,6 +23,7 @@ import pages.LoginPage;
 
 public class LoginTest {
 
+	//initiate driver
 	private WebDriver driver;
 	private WebDriverWait wait;
 	private static Logger log = null;
