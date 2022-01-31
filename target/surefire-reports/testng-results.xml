@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-01-09T11:47:25 IST" name="Suite" finished-at="2022-01-09T11:47:38 IST" duration-ms="12449">
+  <suite started-at="2022-01-31T20:05:36 IST" name="Suite" finished-at="2022-01-31T20:05:47 IST" duration-ms="11207">
     <groups>
     </groups>
-    <test started-at="2022-01-09T11:47:25 IST" name="Test" finished-at="2022-01-09T11:47:38 IST" duration-ms="12449">
+    <test started-at="2022-01-31T20:05:36 IST" name="Test" finished-at="2022-01-31T20:05:47 IST" duration-ms="11207">
       <class name="tests.LoginTest">
-        <test-method is-config="true" signature="Initialization()[pri:0, instance:tests.LoginTest@2fb3536e]" started-at="2022-01-09T11:47:25 IST" name="Initialization" finished-at="2022-01-09T11:47:29 IST" duration-ms="4171" status="PASS">
+        <test-method is-config="true" signature="Initialization()[pri:0, instance:tests.LoginTest@4c9f8c13]" started-at="2022-01-31T20:05:36 IST" name="Initialization" finished-at="2022-01-31T20:05:39 IST" duration-ms="3145" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Initialization -->
-        <test-method is-config="true" signature="logger(java.lang.reflect.Method)[pri:0, instance:tests.LoginTest@2fb3536e]" started-at="2022-01-09T11:47:29 IST" name="logger" finished-at="2022-01-09T11:47:29 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="logger(java.lang.reflect.Method)[pri:0, instance:tests.LoginTest@4c9f8c13]" started-at="2022-01-31T20:05:39 IST" name="logger" finished-at="2022-01-31T20:05:39 IST" duration-ms="15" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -22,11 +22,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logger -->
-        <test-method signature="Validate_LoginApplication()[pri:0, instance:tests.LoginTest@2fb3536e]" started-at="2022-01-09T11:47:29 IST" name="Validate_LoginApplication" finished-at="2022-01-09T11:47:37 IST" duration-ms="8156" status="PASS">
+        <test-method signature="Validate_LoginApplication()[pri:0, instance:tests.LoginTest@4c9f8c13]" started-at="2022-01-31T20:05:39 IST" name="Validate_LoginApplication" finished-at="2022-01-31T20:05:47 IST" duration-ms="7932" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Validate_LoginApplication -->
-        <test-method is-config="true" signature="Termination()[pri:0, instance:tests.LoginTest@2fb3536e]" started-at="2022-01-09T11:47:37 IST" name="Termination" finished-at="2022-01-09T11:47:38 IST" duration-ms="100" status="PASS">
+        <test-method is-config="true" signature="Termination()[pri:0, instance:tests.LoginTest@4c9f8c13]" started-at="2022-01-31T20:05:47 IST" name="Termination" finished-at="2022-01-31T20:05:47 IST" duration-ms="98" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Termination -->

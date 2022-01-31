@@ -1,9 +1,6 @@
-2022-01-09 11:47:26,948 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager Using chromedriver 97.0.4692.71 (resolved driver for Chrome 97) 
-2022-01-09 11:47:26,962 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver 
-2022-01-09 11:47:27,540 [main] INFO  io.github.bonigarcia.wdm.online.Downloader Downloading https://chromedriver.storage.googleapis.com/97.0.4692.71/chromedriver_win32.zip 
-2022-01-09 11:47:27,798 [main] INFO  io.github.bonigarcia.wdm.online.Downloader Extracting driver from compressed file chromedriver_win32.zip 
-2022-01-09 11:47:27,875 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager Exporting webdriver.chrome.driver as C:\Users\USER\.cache\selenium\chromedriver\win32\97.0.4692.71\chromedriver.exe 
-2022-01-09 11:47:32,737 [main] INFO  Validate_LoginApplication admin@yourstore.com :username is successfully entered 
-2022-01-09 11:47:32,799 [main] INFO  Validate_LoginApplication admin :password is successfully entered 
-2022-01-09 11:47:37,936 [main] INFO  Validate_LoginApplication Login button is clicked 
-2022-01-09 11:47:37,961 [main] INFO  Validate_LoginApplication Login is Successfull 
+2022-01-31 20:05:37,472 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager Using chromedriver 97.0.4692.71 (resolved driver for Chrome 97) 
+2022-01-31 20:05:37,488 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager Exporting webdriver.chrome.driver as C:\Users\USER\.cache\selenium\chromedriver\win32\97.0.4692.71\chromedriver.exe 
+2022-01-31 20:05:42,344 [main] INFO  Validate_LoginApplication admin@yourstore.com :username is successfully entered 
+2022-01-31 20:05:42,405 [main] INFO  Validate_LoginApplication admin :password is successfully entered 
+2022-01-31 20:05:47,336 [main] INFO  Validate_LoginApplication Login button is clicked 
+2022-01-31 20:05:47,361 [main] INFO  Validate_LoginApplication Login is Successfull 
